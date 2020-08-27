@@ -10,4 +10,6 @@ Repository for Golang study
   - Structural
     - Adapter
     - Compositre
+    - Decorator
+    - Facade
 
