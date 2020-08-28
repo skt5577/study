@@ -9,7 +9,7 @@ Repository for Golang study
     - Singleton
   - Structural
     - Adapter
-    - Compositre
+    - Composite
     - Decorator
     - Facade
 
